@@ -1,5 +1,14 @@
 # CIS 5660 HW04 Procedural Buildings
 
+## Concept Art
+![](References/cc1.png)
+![](References/cc2.jpg)
+![](References/cc3.jpg)
+![](References/cc4.jpeg)
+https://sketchfab.com/3d-models/the-copied-city-nier-automata-fan-art-ad0b9ae692534a789ccd9133b20aa6ac
+
+I will try to make a procedural building/city based off of the Copied City from Nier Automata.
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
