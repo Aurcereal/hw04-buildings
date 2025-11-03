@@ -16,9 +16,9 @@ Nier Automata Concept Art
 ![](References/cc4.jpeg)
 [Model by Avery Kukla](https://sketchfab.com/3d-models/the-copied-city-nier-automata-fan-art-ad0b9ae692534a789ccd9133b20aa6ac)
 
-## Breakdown
+## Demo Video
 
-(VIDEO)
+[![Final Result](ShowcaseMedia/demoThumb.png)](https://youtu.be/oGzwwsLkMv4)
 
 ## Box Stacking
 
