@@ -39,8 +39,11 @@ Through extracting the perimeter curve along the bottom of each box, I was able 
 ![](ShowcaseMedia/pillarsBorders.png)
 
 For the borders on the bottom and top of each box, I extracted the perimeter curves of the top and bottom of each box, then translated the middle of each segment a bit down to create a bend, then subdivided it, and then sweeped it with a box curve.
+
 ![](ShowcaseMedia/topBottomBorderGraph.png)
+
 For the pillars, I placed a box on each of the bottom 4 corners of each box.
+
 ![](ShowcaseMedia/pillarsGraph.png)
 
 ## Supports
